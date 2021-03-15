@@ -10,7 +10,7 @@ int main()
 {
  int n;
  cin>>n;
-cout<<"0 0 "<<n<<endl;
+cout<<"0 0 "<<n<<endl;//As in the problem it is guaranteed that n is fibonacci number 
 }
 
  
