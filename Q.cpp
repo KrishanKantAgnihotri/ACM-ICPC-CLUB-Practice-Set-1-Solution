@@ -1,5 +1,10 @@
 /*
-Hint : Two Pointers Approach.  
+A Team can be formed by two ways. By one student Or by two students.
+
+Way 1: For Those students skill at least k, every student can form a team.
+
+Way 2: Firstly take the student of maximum skill. Then take the student with minimum skill, as if (1st student skill + 2nd student skill)≥k. And Both students were not included in any team before.
+Continue this case to form as much team as possible.  
 */         
 #include<bits/stdc++.h>
 using namespace std;
