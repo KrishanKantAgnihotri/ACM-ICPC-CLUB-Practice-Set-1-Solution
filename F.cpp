@@ -1,3 +1,10 @@
+/*
+There have 4 sides. Side-0(East), side-1(South), side-2(West), side-3(North).
+
+If we found '1', we have to move left, just decrement the side value. But for 'side-0', we have to move 'side-3'.
+Otherwise we found '0', we have to move right, just increment the side value. But for 'side-3', we have to move 'side-0'.
+Clearly, final side will be the answer.
+*/
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long
