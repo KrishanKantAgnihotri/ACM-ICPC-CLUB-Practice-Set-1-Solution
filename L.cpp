@@ -1,3 +1,7 @@
+/*
+Link to official Editorial : https://codeforces.com/blog/entry/4764
+Hint : Read Problem carefully before solving :)
+*/
 #include<bits/stdc++.h>
 #define ll long long int
 using namespace std;
