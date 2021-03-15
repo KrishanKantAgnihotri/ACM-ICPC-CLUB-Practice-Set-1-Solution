@@ -1,3 +1,6 @@
+/*
+Link to official Editorial : https://codeforces.com/blog/entry/7826
+*/
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long int 
