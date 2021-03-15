@@ -1,3 +1,6 @@
+/*
+Link to official Editorial : https://codeforces.com/blog/entry/74640
+*/
 #include<bits/stdc++.h>
 #define ll long long
 int main()
