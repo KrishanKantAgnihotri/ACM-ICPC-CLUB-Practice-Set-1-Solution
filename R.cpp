@@ -1,5 +1,5 @@
 /*
-Link to official Editorial : https://codeforces.com/blog/entry/53461
+Link to official Editorial : https://codeforces.com/blog/entry/451
 */ 		
 #include<bits/stdc++.h>
 using namespace std;
